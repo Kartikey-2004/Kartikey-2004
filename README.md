@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋, I'm Kartikey Gupta
 
 <!--
 **Kartikey-2004/Kartikey-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
