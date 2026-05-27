@@ -2,8 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=F7568B&center=true&width=435&lines=Welcome+to+my+Github!" alt="Typing SVG" />
 </p>
 
-https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=F7568B&center=true&width=435&lines=Welcome+to+my+Github!
-
 <h1 align="center">Hi 👋, I'm Kartikey Gupta</h1>
 <h3 align="center">An aspiring software engineer who is interested in making change 🌎</h3>
 
