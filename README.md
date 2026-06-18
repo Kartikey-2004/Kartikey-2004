@@ -20,6 +20,12 @@
 <a href="mailto:kartikey.2004@icloud.com">
   <img src="https://img.shields.io/badge/Email-F7568B?style=for-the-badge&logoColor=white"/>
 </a>
+<a href="https://leetcode.com/u/Kartikey_28/">
+  <img src="https://img.shields.io/badge/LeetCode-0A66C2?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/kartikey_28.3/">
+  <img src="https://img.shields.io/badge/Instagram-F7568B?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 <br><br>
 
