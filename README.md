@@ -8,7 +8,55 @@
 
 <i>Final-year CSE student building intelligent systems with LLMs — RAG pipelines, multi-agent architectures,<br>and applied GenAI tooling. Shaped most recently through internships at Aptus Data Labs and Dailoqa.</i>
 
-<br><br><br>
+</div>
+
+<br><br>
+
+## Experience & Education
+
+> **Dailoqa** — GenAI Intern
+> *May 2026 – June 2026*
+
+> **Aptus Data Labs** — GenAI Intern
+> *June 2025 – August 2025*
+
+> **B.Tech, Computer Science (CSE Core)** — SRM Institute of Science and Technology
+> *Final Year*
+
+<br>
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,git,github,docker,linux,vim,latex"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LangChain-F7568B?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-0A66C2?style=flat-square&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-F7568B?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-0A66C2?style=flat-square&logo=streamlit&logoColor=white"/>
+
+</div>
+
+<br>
+
+## Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kartikey-2004/Kartikey-2004/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kartikey-2004/Kartikey-2004/output/github-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Kartikey-2004/Kartikey-2004/output/github-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+<br><br>
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/kartikey-gupta-kg/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
