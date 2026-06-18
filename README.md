@@ -4,10 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=800&color=F7568B&center=true&vCenter=true&width=600&lines=Building+with+LLMs+%2B+RAG+%2B+LangChain;Turning+ideas+into+intelligent+systems;Always+shipping%2C+always+learning" alt="Typing SVG" />
 
-<br><br>
 <img src="https://raw.githubusercontent.com/Kartikey-2004/Kartikey-2004/main/neural-banner.svg" width="100%"/>
-
-<br><br>
 
 <div align="center">
 
