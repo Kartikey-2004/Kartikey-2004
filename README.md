@@ -13,10 +13,10 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/kartikey-gupta-kg/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:kartikey.2004@icloud.com">
-  <img src="https://img.shields.io/badge/iCloud-Mail-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/✉️%20Email-2D2D2D?style=for-the-badge&logoColor=white"/>
 </a>
 
 <br><br>
