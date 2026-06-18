@@ -6,12 +6,6 @@
 
 <br><br>
 
-<i>Final-year CSE student building intelligent systems with LLMs — RAG pipelines, multi-agent architectures,<br>and applied GenAI tooling. Shaped most recently through internships at Aptus Data Labs and Dailoqa.</i>
-
-</div>
-
-<br><br>
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/kartikey-gupta-kg/">
