@@ -21,3 +21,20 @@
 ### 📫 Contact
 
 - Email: **kartikey.2004@icloud.com**
+
+## 🤝 Connect & Collaborate
+
+<p align="center">
+  <b>Are you looking for a Java Backend Developer or AI/ML collaborator? Let's build something impactful!</b>
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/kartikey-gupta-kg/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:kartikey.2004@icloud"><img src="https://img.shields.io/badge/Email-Inquiry-EA4335?style=for-the-badge&logo=gmail"/></a>
+</p>
+
+<!-- <div align="right">
+  <img src="https://komarev.com/ghpvc/?username=nirmitprasad&color=2ecc71&style=flat-square&label=Profile+Visits" />
+</div> -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2ecc71&height=100&section=footer"/>
