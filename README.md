@@ -4,24 +4,22 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=800&color=F7568B&center=true&vCenter=true&width=600&lines=Building+with+LLMs+%2B+RAG+%2B+LangChain;Turning+ideas+into+intelligent+systems;Always+shipping%2C+always+learning" alt="Typing SVG" />
 
-</div>
+<br><br>
+
+<i>Final-year CSE student building intelligent systems with LLMs — RAG pipelines, multi-agent architectures,<br>and applied GenAI tooling. Shaped most recently through internships at Aptus Data Labs and Dailoqa.</i>
 
 <br><br><br>
-
-## Connect & Collaborate
-
-<div align="center">
 
 <a href="https://www.linkedin.com/in/kartikey-gupta-kg/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:kartikey.2004@icloud.com">
-  <img src="https://img.shields.io/badge/✉️%20Email-2D2D2D?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-F7568B?style=for-the-badge&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Kartikey-2004&color=2ecc71&style=for-the-badge&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=Kartikey-2004&color=F7568B&style=flat-square&label=Profile+Views"/>
 
 </div>
 
