@@ -1,0 +1,90 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="threadGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F7568B"/>
+      <stop offset="100%" stop-color="#0A66C2"/>
+    </linearGradient>
+    <style>
+      .node { animation: pulse 2.6s ease-in-out infinite; }
+      .n0 { animation-delay: 0s; }
+      .n1 { animation-delay: .2s; }
+      .n2 { animation-delay: .4s; }
+      .n3 { animation-delay: .15s; }
+      .n4 { animation-delay: .35s; }
+      .n5 { animation-delay: .55s; }
+      .n6 { animation-delay: .75s; }
+      .n7 { animation-delay: .25s; }
+      .n8 { animation-delay: .65s; }
+      .n9 { animation-delay: .45s; }
+      @keyframes pulse {
+        0%, 100% { opacity: .45; }
+        50% { opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <!-- connecting lines: input -> hidden -->
+  <g stroke="url(#threadGrad)" stroke-width="1" opacity="0.35">
+    <line x1="90" y1="50"  x2="380" y2="30"/>
+    <line x1="90" y1="50"  x2="380" y2="80"/>
+    <line x1="90" y1="50"  x2="380" y2="130"/>
+    <line x1="90" y1="50"  x2="380" y2="170"/>
+    <line x1="90" y1="100" x2="380" y2="30"/>
+    <line x1="90" y1="100" x2="380" y2="80"/>
+    <line x1="90" y1="100" x2="380" y2="130"/>
+    <line x1="90" y1="100" x2="380" y2="170"/>
+    <line x1="90" y1="150" x2="380" y2="30"/>
+    <line x1="90" y1="150" x2="380" y2="80"/>
+    <line x1="90" y1="150" x2="380" y2="130"/>
+    <line x1="90" y1="150" x2="380" y2="170"/>
+  </g>
+
+  <!-- connecting lines: hidden -> output -->
+  <g stroke="url(#threadGrad)" stroke-width="1" opacity="0.35">
+    <line x1="380" y1="30"  x2="690" y2="50"/>
+    <line x1="380" y1="30"  x2="690" y2="100"/>
+    <line x1="380" y1="30"  x2="690" y2="150"/>
+    <line x1="380" y1="80"  x2="690" y2="50"/>
+    <line x1="380" y1="80"  x2="690" y2="100"/>
+    <line x1="380" y1="80"  x2="690" y2="150"/>
+    <line x1="380" y1="130" x2="690" y2="50"/>
+    <line x1="380" y1="130" x2="690" y2="100"/>
+    <line x1="380" y1="130" x2="690" y2="150"/>
+    <line x1="380" y1="170" x2="690" y2="50"/>
+    <line x1="380" y1="170" x2="690" y2="100"/>
+    <line x1="380" y1="170" x2="690" y2="150"/>
+  </g>
+
+  <!-- nodes -->
+  <g fill="url(#threadGrad)">
+    <circle class="node n0" cx="90"  cy="50"  r="7"/>
+    <circle class="node n1" cx="90"  cy="100" r="7"/>
+    <circle class="node n2" cx="90"  cy="150" r="7"/>
+
+    <circle class="node n3" cx="380" cy="30"  r="6"/>
+    <circle class="node n4" cx="380" cy="80"  r="6"/>
+    <circle class="node n5" cx="380" cy="130" r="6"/>
+    <circle class="node n6" cx="380" cy="170" r="6"/>
+
+    <circle class="node n7" cx="690" cy="50"  r="7"/>
+    <circle class="node n8" cx="690" cy="100" r="7"/>
+    <circle class="node n9" cx="690" cy="150" r="7"/>
+  </g>
+
+  <!-- flowing data pulses -->
+  <circle r="3.2" fill="#ffffff">
+    <animateMotion dur="2.4s" repeatCount="indefinite" path="M90,50 L380,30 L690,50"/>
+  </circle>
+  <circle r="3.2" fill="#ffffff">
+    <animateMotion dur="2.8s" begin="0.5s" repeatCount="indefinite" path="M90,100 L380,130 L690,100"/>
+  </circle>
+  <circle r="3.2" fill="#ffffff">
+    <animateMotion dur="3.2s" begin="1s" repeatCount="indefinite" path="M90,150 L380,80 L690,150"/>
+  </circle>
+  <circle r="3.2" fill="#ffffff">
+    <animateMotion dur="2.6s" begin="1.5s" repeatCount="indefinite" path="M90,50 L380,170 L690,100"/>
+  </circle>
+  <circle r="3.2" fill="#ffffff">
+    <animateMotion dur="3s" begin="2s" repeatCount="indefinite" path="M90,150 L380,30 L690,150"/>
+  </circle>
+</svg>
